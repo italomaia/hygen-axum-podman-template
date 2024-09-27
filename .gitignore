@@ -1,0 +1,8 @@
+# we ignore everything
+*
+
+# and pick what we don't want to ignore
+!.gitignore
+!_templates/
+!CHANGELOG.md
+!README.md
