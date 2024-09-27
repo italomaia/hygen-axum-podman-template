@@ -1,5 +1,5 @@
 ---
-to: source/creates/libs/lib-utils/src/envs.rs
+to: source/crates/libs/lib-utils/src/envs.rs
 ---
 //! Handles reading environment variables.
 
