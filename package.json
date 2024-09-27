@@ -1,6 +1,6 @@
 {
     "name": "hygen-axum-podman",
-    "version": "0.1",
+    "version": "0.1.0",
     "description": "Hygen template for axum+podman projects",
     "keywords": [
         "code-generator",
