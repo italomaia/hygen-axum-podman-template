@@ -1,5 +1,5 @@
 ---
-to: infra/compose/services/docker-compose.yml
+to: infra/compose/services/example/docker-compose.yml
 ---
 # production compose file; set safe options by default; variables should be filled from the environment/vault
 

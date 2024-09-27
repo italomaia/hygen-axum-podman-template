@@ -1,5 +1,5 @@
 ---
-to: infra/compose/services/docker-compose-tst.yml
+to: infra/compose/services/example/docker-compose-tst.yml
 ---
 # test compose file; override defaults with un/safe values to facilitate development
 

@@ -1,5 +1,5 @@
 ---
-to: infra/compose/services/docker-compose-dev.yml
+to: infra/compose/services/example/docker-compose-dev.yml
 ---
 # development compose file; override defaults with un/safe values to facilitate development
 
