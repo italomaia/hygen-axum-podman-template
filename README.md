@@ -1,4 +1,4 @@
-# Axum-Podman-Template
+# Hygen-Axum-Podman-Template
 
 This is a project template for people interested quickstarting with [axum](https://github.com/tokio-rs/axum?tab=readme-ov-file).
 
