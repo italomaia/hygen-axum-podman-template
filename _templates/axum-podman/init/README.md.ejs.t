@@ -1,5 +1,6 @@
 ---
 to: README.md
+unless_exists: true
 ---
 ## Requirements
 
