@@ -1,3 +1,6 @@
+---
+to: README.md
+---
 ## Requirements
 
 * make

@@ -1,3 +1,6 @@
+---
+to: source/crates/Cargo.toml
+---
 [workspace.lints.rust]
 unsafe_code = "forbid"
 # unused = "allow" # For experimental dev

@@ -1,3 +1,6 @@
+---
+to: .gitignore
+---
 # -- Base
 .*
 !.gitignore

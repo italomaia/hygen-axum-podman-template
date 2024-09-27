@@ -1,3 +1,6 @@
+---
+to: Makefile
+---
 # -- ALL TARGETS GO BELOW
 
 # fails if ENV is empty or not defined

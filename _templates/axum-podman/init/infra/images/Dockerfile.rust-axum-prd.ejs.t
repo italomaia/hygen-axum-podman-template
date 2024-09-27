@@ -1,3 +1,6 @@
+---
+to: infra/images/Dockerfile.rust-axum-prd
+---
 FROM docker.io/rust:alpine3 AS build
 
 # bin crate name
