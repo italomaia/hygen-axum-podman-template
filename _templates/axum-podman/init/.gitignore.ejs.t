@@ -1,5 +1,6 @@
 ---
 to: .gitignore
+unless_exists: true
 ---
 # -- Base
 .*
