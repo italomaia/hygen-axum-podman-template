@@ -12,7 +12,7 @@ members = [
     # "crates/libs/something",
     
     # services - long running integrated processes
-    # "crates/services/something",
+    "crates/services/example",
 
     # scheduled - scheduled processes (aka: cron)
     # "crates/scheduled/something",
