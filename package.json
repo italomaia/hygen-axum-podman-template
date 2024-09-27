@@ -1,0 +1,15 @@
+{
+    "name": "hygen-axum-podman",
+    "version": "0.1",
+    "description": "Hygen template for axum+podman projects",
+    "keywords": [
+        "code-generator",
+        "template",
+        "boilerplate",
+        "rust",
+        "webdev"
+    ],
+    "homepage": "https://github.com/italomaia/hygen-axum-podman-template",
+    "main": "index.js",
+    "author": "Italo Maia"
+}
