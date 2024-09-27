@@ -1,6 +1,10 @@
 ---
 to: source/crates/services/example/src/main.rs
 ---
+mod error;
+
+pub use self::error::{Error, Result};
+
 use axum::Router;
 use axum::routing::get;
 use tokio::net::TcpListener;
