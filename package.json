@@ -11,5 +11,6 @@
     ],
     "homepage": "https://github.com/italomaia/hygen-axum-podman-template",
     "main": "index.js",
-    "author": "Italo Maia"
+    "author": "Italo Maia",
+    "license": "MIT"
 }
