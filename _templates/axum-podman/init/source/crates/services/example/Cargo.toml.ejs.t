@@ -1,3 +1,6 @@
+---
+to: source/crates/services/example/Cargo.toml
+---
 [package]
 name = "example"
 version = "0.1.0"

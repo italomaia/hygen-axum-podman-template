@@ -1,3 +1,6 @@
+---
+to: source/crates/services/example/src/main.rs
+---
 use axum::Router;
 use axum::routing::get;
 use tokio::net::TcpListener;
