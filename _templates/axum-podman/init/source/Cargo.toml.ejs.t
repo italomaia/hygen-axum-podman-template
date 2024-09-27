@@ -1,5 +1,5 @@
 ---
-to: source/crates/Cargo.toml
+to: source/Cargo.toml
 ---
 [workspace.lints.rust]
 unsafe_code = "forbid"
@@ -9,7 +9,7 @@ unsafe_code = "forbid"
 resolver = "2"
 members = [
     # libs - shared crates used by services, cron & tools
-    # "crates/libs/something",
+    "crates/libs/lib-utils",
     
     # services - long running integrated processes
     "crates/services/example",
