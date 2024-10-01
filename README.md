@@ -1,5 +1,7 @@
 # Hygen-Axum-Podman-Template
 
+**[deprecation-warning]** this project will no longer receive updates; refer to [cookiecutter-axum-podman](https://github.com/italomaia/cookiecutter-axum-podman) for the maintained version.  
+
 This is a project template for people interested quickstarting with [axum](https://github.com/tokio-rs/axum?tab=readme-ov-file).
 
 ## Why Use This Template?
